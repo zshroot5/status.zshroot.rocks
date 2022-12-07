@@ -90,10 +90,10 @@ defaultContentLanguage: en
 # localhost should automatically work.
 #
 # Example: 
-# baseUrl: https://status.example.com/
+# baseUrl: https://google.com
 #
 # For testing:
-# baseUrl: http://localhost
+# baseUrl: https://google.com
 #
 # Broken example:
 # baseUrl: /
